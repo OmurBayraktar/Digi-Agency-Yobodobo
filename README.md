@@ -1,18 +1,20 @@
-# Yobodobo Fullstack Course Projects
+# Yobodobo Fullstack Course Project
 
 ## 📘 Overview
-This repository contains the projects and exercises I completed as part of the **Yobodobo Fullstack Course**.  
-Each project demonstrates practical application of front-end and back-end development concepts using modern web technologies.
+**En:** This work is a practical application of front-end development concepts using modern web technologies.
+
+**Tr:** Bu çalışma, modern web teknolojileri aracılığıyla ön-yüz geliştirme konseptlerinin pratik uygulamasıdır.
 
 ---
 
 ## 🌐 DigiAgency
-**DigiAgency** is an **example brand page** created using **HTML** and **CSS.**  
-It demonstrates basic web design principles, responsive layout, and styling techniques.
+**En:** **DigiAgency** is an **example brand page** created using **HTML** and **CSS.** It demonstrates basic web design principles, responsive layout, and styling techniques.
+
+**Tr:** **DigiAgency**, **HTML** ve **CSS** kullanılarak oluşturulmuş bir **örnek marka sayfasıdır**. Temel web tasarım prensiplerini, duyarlı yerleşimi ve stil tekniklerini gösterir.
 
 ---
 
 ## 🧩 Technologies Used
 - HTML  
-- CSS  
+- CSS
 - Git & GitHub
